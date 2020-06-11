@@ -1,0 +1,2 @@
+rootProject.name='Body_Mass_Index'
+include ':app'
